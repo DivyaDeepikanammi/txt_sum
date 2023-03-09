@@ -3,8 +3,8 @@ import streamlit as st
 from PIL import Image
 #from transformers import pipeline
 #import nltk
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize, sent_tokenize
+#from nltk.corpus import stopwords
+#from nltk.tokenize import word_tokenize, sent_tokenize
 from C2 import nltk_summarizer
 #from sumy.parsers.plaintext import PlaintextParser
 #from sumy.nlp.tokenizers import Tokenizer
