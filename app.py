@@ -11,6 +11,8 @@ from sumy.nlp.tokenizers import Tokenizer
 from sumy.summarizers.lex_rank import LexRankSummarizer
 from C3 import text_rank
 
+# this is first commit
+
 st. set_page_config(layout="wide") 
 
 summarizer = pipeline("summarization")
