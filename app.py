@@ -1,4 +1,6 @@
 import streamlit as st
+import nltk
+nltk.download("corpus")
 #import streamlit_extras
 from PIL import Image
 #from transformers import pipeline
