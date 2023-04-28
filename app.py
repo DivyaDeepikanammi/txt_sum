@@ -1,5 +1,5 @@
 import streamlit as st
-#import nltk
+import nltk
 nltk.download("corpus")
 #import streamlit_extras
 from PIL import Image
